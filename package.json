@@ -1,0 +1,17 @@
+{
+  "name": "xbird",
+  "version": "0.0.1",
+  "description": "An new way to write mobile app.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/okoala/xbird"
+  },
+  "homepage": "https://github.com/okoala/xbird",
+  "authors": [
+    "okoala <dapixp@gmail.com> (https://github.com/okoala)"
+  ],
+  "bugs": {
+    "url": "https://github.com/okoala/xbird/issues"
+  }
+}
